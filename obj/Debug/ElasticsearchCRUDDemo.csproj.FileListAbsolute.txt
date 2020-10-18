@@ -1,0 +1,17 @@
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\ElasticsearchCRUDDemo.exe.config
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\ElasticsearchCRUDDemo.exe
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\ElasticsearchCRUDDemo.pdb
+F:\BlogTestProgram\ElasticsearchCRUDDemo\obj\Debug\ElasticsearchCRUDDemo.csprojAssemblyReference.cache
+F:\BlogTestProgram\ElasticsearchCRUDDemo\obj\Debug\ElasticsearchCRUDDemo.exe
+F:\BlogTestProgram\ElasticsearchCRUDDemo\obj\Debug\ElasticsearchCRUDDemo.pdb
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\Elasticsearch.Net.dll
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\Nest.dll
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\System.Buffers.dll
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\Elasticsearch.Net.xml
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\Nest.xml
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\System.Buffers.xml
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\BlogTestProgram\ElasticsearchCRUDDemo\obj\Debug\ElasticsearchCRUDDemo.csproj.CopyComplete
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\Newtonsoft.Json.dll
+F:\BlogTestProgram\ElasticsearchCRUDDemo\bin\Debug\Newtonsoft.Json.xml
